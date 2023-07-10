@@ -252,7 +252,7 @@ To run this project
 [![Screenshot-31.png](https://i.postimg.cc/DzvD77VJ/Screenshot-31.png)](https://postimg.cc/mPnVwfgB)
 
 #### Get all posts created by specific user with the list of 5 users who recently liked and disliked a post and  with optional data filtering, sorting and pagination using JWT token
-
+[![Screenshot-35.png](https://i.postimg.cc/q7H5w7PS/Screenshot-35.png)](https://postimg.cc/Hr3zsTs9)
 
 #### Get specific number of top liked or disliked posts using JWT token
 [![Screenshot-36.png](https://i.postimg.cc/BbRrGBzQ/Screenshot-36.png)](https://postimg.cc/MfbP7Vxh)
