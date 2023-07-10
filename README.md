@@ -214,5 +214,8 @@ To run this project
 [![Screenshot-19.png](https://i.postimg.cc/BnHjD899/Screenshot-19.png)](https://postimg.cc/mPZZWgg8)
 
 #### Get limited data of all users if currently logged in user is a normal user
-[![Screenshot-21.png](https://i.postimg.cc/xjm7HYpD/Screenshot-21.png)](https://postimg.cc/7bxmrvym)
+[![Screenshot-23.png](https://i.postimg.cc/zBNrHBwB/Screenshot-23.png)](https://postimg.cc/p9s7gP6b)
+
+#### Get all data of all users if currently logged in user is a admin user
+[![Screenshot-22.png](https://i.postimg.cc/q7vk1gh5/Screenshot-22.png)](https://postimg.cc/75j86HN3)
 
