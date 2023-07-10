@@ -207,6 +207,8 @@ To run this project
 
 ## Screenshots
 
+### User API Screenshots
+
 #### Register a user 
 [![Screenshot-18.png](https://i.postimg.cc/05BnXSLT/Screenshot-18.png)](https://postimg.cc/w3DD71x2)
 
@@ -218,4 +220,22 @@ To run this project
 
 #### Get all data of all users if currently logged in user is a admin user
 [![Screenshot-22.png](https://i.postimg.cc/q7vk1gh5/Screenshot-22.png)](https://postimg.cc/75j86HN3)
+
+#### Get limited data of a specific user if Id is given
+
+
+### Post API Screenshots
+
+#### Create authentication token to access endpoints of Post API as all the endpoints are protected
+[![Screenshot-24.png](https://i.postimg.cc/DfRfYXqj/Screenshot-24.png)](https://postimg.cc/PNzkCNVY)
+
+#### Create or update a post without JWT Token
+[![Screenshot-25.png](https://i.postimg.cc/C5cGS4Sq/Screenshot-25.png)](https://postimg.cc/wRsykLtq)
+
+#### Create a new post with JWT Token
+[![Screenshot-26.png](https://i.postimg.cc/FKx1MH9f/Screenshot-26.png)](https://postimg.cc/8Fj1WDfD)
+
+#### Update content and time of updation if the title and user is same to existing post
+[![Screenshot-27.png](https://i.postimg.cc/J7YKw1nd/Screenshot-27.png)](https://postimg.cc/s1S57C5p)
+
 
