@@ -239,7 +239,7 @@ To run this project
 #### Create a new post with JWT Token
 [![Screenshot-26.png](https://i.postimg.cc/FKx1MH9f/Screenshot-26.png)](https://postimg.cc/8Fj1WDfD)
 
-#### Update content and time of updation if the title and user is same to existing post
+#### Update content and time of updation if the title and user is same to existing post using JWT Token
 [![Screenshot-27.png](https://i.postimg.cc/J7YKw1nd/Screenshot-27.png)](https://postimg.cc/s1S57C5p)
 
 #### Add user response such as like or dislike to a specific post if there is no response by the user
@@ -248,7 +248,10 @@ To run this project
 #### No change in user response if user gives same response on the already liked or disliked post
 [![Screenshot-30.png](https://i.postimg.cc/50JXXFtN/Screenshot-30.png)](https://postimg.cc/Lqy975fr)
 
-#### Updating user response on the already liked or disliked post 
+#### Updating user response on the already liked or disliked post using JWT Token
 [![Screenshot-31.png](https://i.postimg.cc/DzvD77VJ/Screenshot-31.png)](https://postimg.cc/mPnVwfgB)
+
+#### Get all posts created by specific user with optional data filtering, sorting and pagination using JWT Token
+[![Get-User-Posts.png](https://i.postimg.cc/ZKDSqfFK/Get-User-Posts.png)](https://postimg.cc/jLN9g4FG)
 
 
