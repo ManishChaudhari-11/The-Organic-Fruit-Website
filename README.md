@@ -233,7 +233,7 @@ To run this project
 #### Create authentication token to access endpoints of Post API as all the endpoints are protected
 [![Screenshot-24.png](https://i.postimg.cc/DfRfYXqj/Screenshot-24.png)](https://postimg.cc/PNzkCNVY)
 
-#### Create or update a post without JWT Token
+#### Accessing any endpoint of Post API without JWT Token
 [![Screenshot-25.png](https://i.postimg.cc/C5cGS4Sq/Screenshot-25.png)](https://postimg.cc/wRsykLtq)
 
 #### Create a new post with JWT Token
@@ -241,5 +241,14 @@ To run this project
 
 #### Update content and time of updation if the title and user is same to existing post
 [![Screenshot-27.png](https://i.postimg.cc/J7YKw1nd/Screenshot-27.png)](https://postimg.cc/s1S57C5p)
+
+#### Add user response such as like or dislike to a specific post if there is no response by the user
+[![Screenshot-29.png](https://i.postimg.cc/h4rS052r/Screenshot-29.png)](https://postimg.cc/NLKqspq9)
+
+#### No change in user response if user gives same response on the already liked or disliked post
+[![Screenshot-30.png](https://i.postimg.cc/50JXXFtN/Screenshot-30.png)](https://postimg.cc/Lqy975fr)
+
+#### Updating user response on the already liked or disliked post 
+[![Screenshot-31.png](https://i.postimg.cc/DzvD77VJ/Screenshot-31.png)](https://postimg.cc/mPnVwfgB)
 
 
