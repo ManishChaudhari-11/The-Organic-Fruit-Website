@@ -205,6 +205,9 @@ To run this project
 | `userId` | `long` | **optional**. User id of user to get top liked or top disliked posts of a specific user|
 
 
+
+
+
 ## Screenshots
 
 ### User API Screenshots
@@ -222,6 +225,7 @@ To run this project
 [![Screenshot-22.png](https://i.postimg.cc/q7vk1gh5/Screenshot-22.png)](https://postimg.cc/75j86HN3)
 
 #### Get limited data of a specific user if Id is given
+[![Screenshot-28.png](https://i.postimg.cc/m2bwFtnD/Screenshot-28.png)](https://postimg.cc/bdBb7Npc)
 
 
 ### Post API Screenshots
