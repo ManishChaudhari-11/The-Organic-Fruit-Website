@@ -233,13 +233,13 @@ To run this project
 #### Create authentication token to access endpoints of Post API as all the endpoints are protected
 [![Screenshot-24.png](https://i.postimg.cc/DfRfYXqj/Screenshot-24.png)](https://postimg.cc/PNzkCNVY)
 
-#### Accessing any endpoint of Post API without JWT Token
+#### Accessing any endpoint of Post API without JWT token
 [![Screenshot-25.png](https://i.postimg.cc/C5cGS4Sq/Screenshot-25.png)](https://postimg.cc/wRsykLtq)
 
-#### Create a new post with JWT Token
+#### Create a new post with JWT token
 [![Screenshot-26.png](https://i.postimg.cc/FKx1MH9f/Screenshot-26.png)](https://postimg.cc/8Fj1WDfD)
 
-#### Update content and time of updation if the title and user is same to existing post using JWT Token
+#### Update content and time of updation if the title and user is same to existing post using JWT token
 [![Screenshot-27.png](https://i.postimg.cc/J7YKw1nd/Screenshot-27.png)](https://postimg.cc/s1S57C5p)
 
 #### Add user response such as like or dislike to a specific post if there is no response by the user
@@ -248,10 +248,17 @@ To run this project
 #### No change in user response if user gives same response on the already liked or disliked post
 [![Screenshot-30.png](https://i.postimg.cc/50JXXFtN/Screenshot-30.png)](https://postimg.cc/Lqy975fr)
 
-#### Updating user response on the already liked or disliked post using JWT Token
+#### Updating user response on the already liked or disliked post using JWT token
 [![Screenshot-31.png](https://i.postimg.cc/DzvD77VJ/Screenshot-31.png)](https://postimg.cc/mPnVwfgB)
 
-#### Get all posts created by specific user with optional data filtering, sorting and pagination using JWT Token
-[![Get-User-Posts.png](https://i.postimg.cc/ZKDSqfFK/Get-User-Posts.png)](https://postimg.cc/jLN9g4FG)
+#### Get all posts created by specific user with the list of 5 users who recently liked and disliked a post and  with optional data filtering, sorting and pagination using JWT token
+[![Screenshot-32.png](https://i.postimg.cc/DZ4L4pRQ/Screenshot-32.png)](https://postimg.cc/jwKLGcxC)
+
+#### Get specific number of top liked or disliked posts using JWT token
+[![Screenshot-33.png](https://i.postimg.cc/wjXQ2Bxt/Screenshot-33.png)](https://postimg.cc/rDp4FMrc)
+
+#### Get specific number of top liked or disliked posts of a user using JWT token
+[![Screenshot-34.png](https://i.postimg.cc/HnYdjzWY/Screenshot-34.png)](https://postimg.cc/5YRZRwFT)
+
 
 
