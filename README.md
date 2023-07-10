@@ -207,8 +207,12 @@ To run this project
 
 ## Screenshots
 
-#### Register a User 
+#### Register a user 
 [![Screenshot-18.png](https://i.postimg.cc/05BnXSLT/Screenshot-18.png)](https://postimg.cc/w3DD71x2)
 
-#### Login a User
+#### Login a user
 [![Screenshot-19.png](https://i.postimg.cc/BnHjD899/Screenshot-19.png)](https://postimg.cc/mPZZWgg8)
+
+#### Get limited data of all users if currently logged in user is a normal user
+[![Screenshot-21.png](https://i.postimg.cc/xjm7HYpD/Screenshot-21.png)](https://postimg.cc/7bxmrvym)
+
